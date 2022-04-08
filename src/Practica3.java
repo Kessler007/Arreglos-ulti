@@ -43,9 +43,9 @@ public class Practica3 {
         }
 
         promedio = suma / notas.length;
-        System.out.println("Promedio: " + promedio);
-        System.out.println("El nota maxima es: " + mayor);
-        System.out.println("El nota minima es: " + menor);
+        System.out.println("El Promedio es: " + promedio);
+        System.out.println("La Nota Maxima es: " + mayor);
+        System.out.println("La Nota Minima es: " + menor);
 
     }
 }
